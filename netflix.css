@@ -1,0 +1,116 @@
+.stylinglogo{
+    width: 150px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 30px;
+}
+.navbar{
+    background-color: black;
+}
+#go{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px;
+    margin-left:30px;
+    letter-spacing: 1px;
+}
+#go:hover{
+    color: brown;
+}
+.btn{
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.bgimg1{
+    background-image: url("https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSIzfaY_trKwpWEJ1crosHQEDa9h6IWXCFJHvhLjqGJ0iPf8kTOLE70CjPntF-Qg-_sE2g1dLjZlmvn8PoA2QZH9P1h-.jpg");
+    background-size: cover;
+    height: 110vh;
+}
+.bgimg2{
+    background-color: black;
+}
+.season{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.season:hover{
+    color:grey;
+}
+.matter{
+    text-align: center;
+    font-family:cursive;
+    letter-spacing: 3px;
+    color: white;
+}
+.matter:hover{
+    text-decoration: underline;
+}
+.explorehead{
+    color:bisque;
+    text-decoration:underline;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+.explorehead:hover{
+    color: red;
+}
+.card{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.bgimg3{
+    background-color: black;
+}
+.heading{
+    color: white;
+    padding-top: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.heading:hover{
+    text-decoration: underline;
+}
+.head{
+    color: grey;
+    padding-top: 20px;
+}
+.head1{
+    color: white
+}
+
+.head:hover{
+    color: red;
+}
+.logo{
+    height: auto;
+    width: 30%;
+    padding-bottom: 45px;
+    padding-left: 20px;
+}
+.little{
+    text-align: left;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    padding-left: 25px;
+    color: white;
+}
+.head3{
+    padding-top: 25px;
+    padding-left: 25px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+.head4{
+    padding-left: 25px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
